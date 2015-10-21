@@ -41,8 +41,8 @@ namespace SeleniumPOC3MSTest
             methods.SearchElement().SendKeys("500000");
             //methods.EnterHomeValue();
             ////driver.Navigate().GoToUrl("http://www.mortgagecalculator.org/");
-            //driver.FindElement(By.Name("param[homevalue]")).Clear();
-            //driver.FindElement(By.Name("param[homevalue]")).SendKeys("500000");
+            driver.FindElement(By.Name("param[homevalue]")).Clear();
+            driver.FindElement(By.Name("param[homevalue]")).SendKeys("500000");
             //driver.FindElement(By.Name("param[principal]")).Clear();
             //driver.FindElement(By.Name("param[principal]")).SendKeys("300000");
             //driver.FindElement(By.Name("param[interest_rate]")).Clear();

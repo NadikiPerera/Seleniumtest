@@ -28,3 +28,22 @@ C:\Users\NadikiNPerera\Documents\Visual Studio 2012\Projects\GitTest2\Code\Selen
 C:\Users\NadikiNPerera\Documents\Visual Studio 2012\Projects\GitTest2\Code\SeleniumPOC3MSTest\obj\Debug\SeleniumPOC3MSTest.csprojResolveAssemblyReference.cache
 C:\Users\NadikiNPerera\Documents\Visual Studio 2012\Projects\GitTest2\Code\SeleniumPOC3MSTest\obj\Debug\SeleniumPOC3MSTest.dll
 C:\Users\NadikiNPerera\Documents\Visual Studio 2012\Projects\GitTest2\Code\SeleniumPOC3MSTest\obj\Debug\SeleniumPOC3MSTest.pdb
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\SeleniumPOC3MSTest.dll
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\SeleniumPOC3MSTest.pdb
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\WebDriver.dll
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\WebDriver.Support.dll
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\WebDriver.pdb
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\WebDriver.xml
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\WebDriver.Support.pdb
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\WebDriver.Support.xml
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\obj\Debug\SeleniumPOC3MSTest.csprojResolveAssemblyReference.cache
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\obj\Debug\SeleniumPOC3MSTest.dll
+C:\Users\NadikiNPerera\Source\Repos\Seleniumtest\GitTest3\SeleniumPOC3MSTest\obj\Debug\SeleniumPOC3MSTest.pdb
